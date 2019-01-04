@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542202291 source:/home/LABPK/ptoma/Pulpit/lab2/lab 5 piramida/main.c
+	<stdio.h>
+	<stdlib.h>
+
